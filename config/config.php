@@ -3,5 +3,5 @@
 define("DB_HOST", "localhost");
 define("DB", "solicitud");
 define("DB_USER", "root");
-define("DB_PASS", "");
+define("DB_PASS", "12345678");
 ?>
